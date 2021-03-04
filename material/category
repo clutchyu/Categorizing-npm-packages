@@ -1,0 +1,29 @@
+[number]number
+[string]string
+[time]date time
+[collection]array map set
+[text]text
+[promise]promise async asynchronous
+[stream]stream buffer
+[security]security crypto
+[debug]debug debugger
+[error]error
+[fs]fs file_system file path directory
+[http]http request
+[url]url urls
+[util]util utility
+[cli]cli command command_line
+[documentation]documentation document
+[image]image
+[loader]loader
+[log]log logger
+[validation]validation validator
+[test]test
+[database]database
+[framework]framework
+[authentication]authentication
+[email]email
+[parser]parser parse
+[typescript]typescript
+[markdown]markdown
+[event]event
